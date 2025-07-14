@@ -33,6 +33,7 @@ This project captures and nurtures **no-shows** with:
 
 ---
 
+```
 📂 grovista-reengage-loop/
 ├── README.md                         # Project overview and purpose
 ├── loom-demo.md                      # Loom link and video walkthrough
@@ -51,6 +52,7 @@ This project captures and nurtures **no-shows** with:
 
 ├── export/
 │   └── notes-on-ghl-setup.md         # Implementation notes since GHL doesn’t export flows
+```
 
 ## 🎥 Demo
 
