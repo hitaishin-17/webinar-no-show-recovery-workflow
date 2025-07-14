@@ -33,22 +33,24 @@ This project captures and nurtures **no-shows** with:
 
 ---
 
-## 📂 Repo Structure
-grovista-reengage-loop/
-├── README.md
-├── loom-demo.md                # Loom link + video summary
-├── funnel-overview.png         # High-level diagram
+📂 grovista-reengage-loop/
+├── README.md                         # Project overview and purpose
+├── loom-demo.md                     # Loom link and video walkthrough
+├── funnel-overview.png              # Visual of the full funnel journey
+
 ├── assets/
-│   ├── reminders-flow.png
-│   ├── replay-engagement-tags.png
-│   ├── engagement-tags-detailed.png
+│   ├── reminders-flow.png           # Diagram of multi-channel reminders
+│   ├── replay-engagement-tags.png  # Replay scoring flow
+│   ├── engagement-tags-detailed.png # Visual: tag + trigger + next step logic
+
 ├── docs/
-│   ├── workflow-summary.md     # Step-by-step logic
-│   ├── scoring-logic.md        # Tag + score mapping
-│   ├── tags-used.md            # All tags used
-│   └── auto-actions.md         # Automations triggered
-└── export/
-└── notes-on-ghl-setup.md   # Since GHL doesn’t export workflows
+│   ├── workflow-summary.md         # Step-by-step breakdown of the entire flow
+│   ├── scoring-logic.md            # Lead scoring points, tags, thresholds
+│   ├── tags-used.md                # Table of all tags, purpose, and when applied
+│   └── auto-actions.md             # Auto-triggers for reminders, tasks, and handoffs
+
+├── export/
+│   └── notes-on-ghl-setup.md       # Implementation notes since GHL doesn’t export flows
 
 ---
 
