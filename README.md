@@ -1,6 +1,6 @@
 # webinar-no-show-recovery-workflow
 
-# 🌀 Grovista Re-Engage Loop (Webinar Replay Automation)
+# Grovista Re-Engage Loop (Webinar Replay Automation)
 
 **Built on GoHighLevel (GHL)**  
 **Goal:** Rescue webinar no-shows with automated replay workflows and smart lead scoring.
