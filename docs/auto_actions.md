@@ -12,7 +12,7 @@ This document lists all the automation logic applied at various stages of the we
 | No engagement after 1st reminder | Escalate reminder via a second channel (e.g. SMS or WhatsApp)             |
 | 1 hour before live event         | Send AI-powered human-voice drop (“See you there” message)                |
 
-# 🎥 Post-Webinar (No-Show Flow)
+**🎥 Post-Webinar (No-Show Flow)**
 
 | **Trigger**                     | **Action**                                                                 |
 |--------------------------------|----------------------------------------------------------------------------|
@@ -22,7 +22,7 @@ This document lists all the automation logic applied at various stages of the we
 | Clicked “Book Demo” CTA        | Add tag `clicked-demo-link`, add **+20 score**, create **sales follow-up task** |
 | No activity for 48h            | Add tag `cold-no-show`, subtract **10 points**, move to **nurture flow**   |
 
-# ✅ Attendee Flow
+**✅ Attendee Flow**
 
 | **Trigger**                | **Action**                                                                 |
 |---------------------------|----------------------------------------------------------------------------|
@@ -30,7 +30,7 @@ This document lists all the automation logic applied at various stages of the we
 | Attended + Engaged        | Hand off to sales team with `sql-ready` tag                                |
 | Booked Demo               | Add tag `demo-booked`, create calendar invite, notify sales                |
 
-# 📬 CRM & Team Notifications
+**📬 CRM & Team Notifications**
 
 | **Trigger**                  | **Action**                                                                 |
 |-----------------------------|----------------------------------------------------------------------------|
