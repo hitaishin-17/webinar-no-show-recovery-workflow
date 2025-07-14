@@ -54,9 +54,7 @@ This project captures and nurtures **no-shows** with:
 
 ## 🎥 Demo
 
-→ Check out the **video walkthrough**:
-https://drive.google.com/file/d/1RMxwakXs3-317tyzagsjKOrS_YumC_m8/view?usp=sharing
----
+→ Check out the **video walkthrough**: https://drive.google.com/file/d/1RMxwakXs3-317tyzagsjKOrS_YumC_m8/view?usp=sharing
 
 ## 🚀 Results
 
