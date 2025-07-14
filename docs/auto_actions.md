@@ -4,7 +4,7 @@ This document lists all the automation logic applied at various stages of the we
 
 ⸻
 
-# 🔁 Multi-Channel Reminder Flow – Trigger Actions
+** 🔁 Multi-Channel Reminder Flow – Trigger Actions **
 
 | **Trigger**                       | **Action**                                                                 |
 |----------------------------------|----------------------------------------------------------------------------|
