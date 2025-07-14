@@ -1,6 +1,4 @@
 
-Notes on GHL Setup for Webinar Re-Engage Loop
-
 # 📓 Notes on GHL Setup for Webinar Automation Workflow
 
 This document captures important implementation details, considerations, and setup tips within GoHighLevel (GHL) for automating the webinar-to-sales workflow.
