@@ -2,7 +2,7 @@ Replay Engagement Scoring Logic
 
 This document outlines the lead scoring system used in the Webinar Re-Engage Loop to qualify replay viewers and route only high-intent leads to the sales team.
 
-# 📊 Scoring Triggers
+**📊 Scoring Triggers**
 
 | **Trigger Event**            | **Tag Applied**       | **Points** | **Next Action**                         |
 |-----------------------------|------------------------|-----------:|------------------------------------------|
@@ -11,7 +11,7 @@ This document outlines the lead scoring system used in the Webinar Re-Engage Loo
 | Clicked “Book Demo” CTA     | `clicked-demo-link`   | +20        | Create Task for Sales                    |
 | No Engagement After 48h     | `cold-no-show`        | -10        | Move to Nurture Workflow                 |
 
-# 🎯 Lead Stage Scoring Logic
+**🎯 Lead Stage Scoring Logic**
 
 | **Score Range** | **Lead Stage**             | **Action**                                      |
 |-----------------|----------------------------|-------------------------------------------------|
