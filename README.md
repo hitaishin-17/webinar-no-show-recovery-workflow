@@ -28,8 +28,8 @@ This project captures and nurtures **no-shows** with:
    Tag-based scoring to surface high-intent leads.
 
 4. **Lead Routing & Follow-up**  
-   🔥 leads → sales task created  
-   🧊 leads → moved to nurture
+   leads → sales task created  
+   leads → moved to nurture
 
 ---
 
@@ -56,9 +56,9 @@ This project captures and nurtures **no-shows** with:
 
 ## 🎥 Demo
 
-→ Check out the **video walkthrough**: https://drive.google.com/file/d/1RMxwakXs3-317tyzagsjKOrS_YumC_m8/view?usp=sharing
+→ [Check out the **video walkthrough**](https://drive.google.com/file/d/1RMxwakXs3-317tyzagsjKOrS_YumC_m8/view?usp=sharing)
 
-## 🚀 Results
+## Results
 
 - **41 no-shows**  
 → 23 replay views  
@@ -68,7 +68,7 @@ This project captures and nurtures **no-shows** with:
 
 ---
 
-## 🛠 Built With
+## Built With
 
 - GoHighLevel (GHL)
 - Webhooks + Tag Automation
@@ -77,7 +77,7 @@ This project captures and nurtures **no-shows** with:
 
 ---
 
-## 🧠 Learnings
+## Learnings
 
 - The real pipeline often hides in the replay.
 - Engagement tags > Just open tracking.
@@ -85,8 +85,8 @@ This project captures and nurtures **no-shows** with:
 
 ---
 
-## 📬 Questions?
+## Questions?
 
-Open an issue or connect on [www.linkedin.com/in/hitaishi-n-grovista].
+[Connect with me on LinkedIn](www.linkedin.com/in/hitaishi-n-grovista)
 
 ---
