@@ -61,6 +61,7 @@ Created lead engagement scorecards based on:
 - Follow-up timing ≠ event end → it’s ~2 hours after replay delivered
 - GHL limitations suggest next version may be external microservice
 
+## Folder Structure
 
 ```
 📂 grovista-reengage-loop/
