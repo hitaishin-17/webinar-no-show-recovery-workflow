@@ -37,9 +37,9 @@ This project captures and nurtures **no-shows** with:
 This wasn’t just a marketing workflow — it was a product-led initiative driven by real behavior and validated through agile iteration.
 
 **Strategic Thought Process**
-	•	Problem Framing: Only 18% live show-up rate — typical but unacceptable.
-	•	Hypothesis: The replay holds real intent, we’re just not capturing it.
-	•	Goal: Build a system to capture, qualify, and convert that hidden demand.
+	1.	Problem Framing: Only 18% live show-up rate — typical but unacceptable.
+ 	2.	Hypothesis: The replay holds real intent, we’re just not capturing it.
+  	3.	Goal: Build a system to capture, qualify, and convert that hidden demand.
 
 **Agile Product Flow**
 	Used Kanban board on JIRA to track:
