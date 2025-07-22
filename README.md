@@ -37,29 +37,29 @@ This project captures and nurtures **no-shows** with:
 This wasn’t just a marketing workflow — it was a product-led initiative driven by real behavior and validated through agile iteration.
 
 **Strategic Thought Process**
-	-	Problem Framing: Only 18% live show-up rate — typical but unacceptable.
- 	-	Hypothesis: The replay holds real intent, we’re just not capturing it.
-  	-	Goal: Build a system to capture, qualify, and convert that hidden demand.
+- Problem Framing: Only 18% live show-up rate — typical but unacceptable.
+- Hypothesis: The replay holds real intent, we’re just not capturing it.
+- Goal: Build a system to capture, qualify, and convert that hidden demand.
 
 **Agile Product Flow**
-	Used Kanban board on JIRA to track:
-	•	Feature ideation
-	•	Experiment cycles
-	•	Funnel optimization tasks
-	•	Weekly review loops to improve engagement timing, tag rules, and CTA wording.
+Used Kanban board on JIRA to track:
+- Feature ideation
+- Experiment cycles
+- Funnel optimization tasks
+- Weekly review loops to improve engagement timing, tag rules, and CTA wording.
 
 
 **Data-Driven Design**
-	Created lead engagement scorecards based on:
-	•	Replay open time
-	•	Tag triggers (e.g., watched_75, clicked_cta)
-	•	Channel response (Email/SMS/WhatsApp/AI Voice)
-	•	Mapped conversion journey from replay → to booking → to follow-up
+Created lead engagement scorecards based on:
+- Replay open time
+- Tag triggers (e.g., watched_75, clicked_cta)
+- Channel response (Email/SMS/WhatsApp/AI Voice)
+- Mapped conversion journey from replay → to booking → to follow-up
 
 **Learnings Logged**
-	•	Tags > Clicks — Intent hides in behavior, not just actions
-	•	Follow-up timing ≠ event end → it’s ~2 hours after replay delivered
-	•	GHL limitations suggest next version may be external microservice
+- Tags > Clicks — Intent hides in behavior, not just actions
+- Follow-up timing ≠ event end → it’s ~2 hours after replay delivered
+- GHL limitations suggest next version may be external microservice
 
 
 ```
