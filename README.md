@@ -42,6 +42,7 @@ This wasn’t just a marketing workflow — it was a product-led initiative driv
 - Goal: Build a system to capture, qualify, and convert that hidden demand.
 
 **Agile Product Flow**
+
 Used Kanban board on JIRA to track:
 - Feature ideation
 - Experiment cycles
@@ -50,6 +51,7 @@ Used Kanban board on JIRA to track:
 
 
 **Data-Driven Design**
+
 Created lead engagement scorecards based on:
 - Replay open time
 - Tag triggers (e.g., watched_75, clicked_cta)
