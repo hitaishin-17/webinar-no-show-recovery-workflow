@@ -32,7 +32,7 @@ This project captures and nurtures **no-shows** with:
    leads → moved to nurture
 
 ---
-### 👤 User Story
+## User Story
 As a Growth Marketer,  
 I want to automatically re-engage webinar no-shows,  
 So I can convert missed attendance into demo bookings without manual follow-ups.
@@ -46,7 +46,7 @@ This wasn’t just a marketing workflow — it was a product-led initiative driv
 - Hypothesis: The replay holds real intent, we’re just not capturing it.
 - Goal: Build a system to capture, qualify, and convert that hidden demand.
 
-### PM Skills Demonstrated
+## PM Skills Demonstrated
 
 | Skill                        | Demonstrated Through                                       |
 |-----------------------------|------------------------------------------------------------|
