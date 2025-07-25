@@ -131,7 +131,7 @@ Created lead engagement scorecards based on:
 - Timing and channel mix matter.
 
 ---
-### Future Enhancements
+## Future Enhancements
 - Add microservice to replace GHL limitations
 - A/B test voice follow-up after SMS/WhatsApp open
 - Auto-prioritize hot leads via real-time Slack alerts
