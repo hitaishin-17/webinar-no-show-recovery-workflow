@@ -32,6 +32,11 @@ This project captures and nurtures **no-shows** with:
    leads → moved to nurture
 
 ---
+### 👤 User Story
+As a Growth Marketer,  
+I want to automatically re-engage webinar no-shows,  
+So I can convert missed attendance into demo bookings without manual follow-ups.
+
 ## Product Thinking: Turning No-Shows into Pipeline
 
 This wasn’t just a marketing workflow — it was a product-led initiative driven by real behavior and validated through agile iteration.
@@ -40,6 +45,16 @@ This wasn’t just a marketing workflow — it was a product-led initiative driv
 - Problem Framing: Only 18% live show-up rate — typical but unacceptable.
 - Hypothesis: The replay holds real intent, we’re just not capturing it.
 - Goal: Build a system to capture, qualify, and convert that hidden demand.
+
+### PM Skills Demonstrated
+
+| Skill                        | Demonstrated Through                                       |
+|-----------------------------|------------------------------------------------------------|
+| Problem Framing             | Identified 18% show-up rate as a funnel gap               |
+| Experimentation & Iteration | Weekly loops on timing, tag rules, CTA tests              |
+| Cross-functional Execution  | Built across marketing, ops, and automation tooling        |
+| Data-Driven Decision Making | Used scoring tags, time stamps, and conversions to refine |
+| Tool Limitation Awareness   | Noted GHL limits → future shift to external microservice   |
 
 **Agile Product Flow**
 
@@ -116,6 +131,10 @@ Created lead engagement scorecards based on:
 - Timing and channel mix matter.
 
 ---
+### Future Enhancements
+- Add microservice to replace GHL limitations
+- A/B test voice follow-up after SMS/WhatsApp open
+- Auto-prioritize hot leads via real-time Slack alerts
 
 ## Questions?
 
